@@ -1,22 +1,11 @@
+Laravel 6.* + JWTAuth Library
+---
 
-server side auth way
-- user visits browser
-- user logs with form from browser
-- laravel keeps user auth info (session)
+This is a simple implementation project from a laravel framwork v6/* with authentication library of JWTAuth.
 
-api side way
-- user visits browser
-- user logs in with form
+Visit JWTAuth Website for more information: https://jwt-auth.readthedocs.io/en/develop/
 
-- laravel authenticates user and gives a token (JWT)
-- user requests info from api with JWT
-
-- HTTP Header Authorization
-
-
-Start
-- composer require tymon/jwt-auth
-
-Utilities:
-- theme: monokai.pro
-- font: cascadia code
+- Author This Repo: Rindi Budiaramdhan. 
+  - LinkedIn: https://www.linkedin.com/in/rindi-budiaramdhan-85801397/
+  - Instagram: @budiaramdhanrindi
+- Tutorial Video from Chris on Code: https://www.youtube.com/watch?v=TTK8uQOjpT0
